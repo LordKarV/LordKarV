@@ -10,6 +10,9 @@ defense tested against an attacker that retrains.
 - [**kin**](https://github.com/LordKarV/kin): live-call companion that surfaces "who's that" cards
   from a per-listener knowledge graph with a forgetting model; picks cards in 2-3 ms vs a 4 s LLM
   baseline. HackTX 2026, team of 3.
+- [**keyboard-acoustic-shield**](https://github.com/LordKarV/keyboard-acoustic-shield): reads
+  keystrokes from the sound of typing on a call, then an inaudible adversarial shield drives
+  even a retraining attacker to chance (2.8%). HackGT 2026, with Dan Mano.
 - [**flyscore**](https://github.com/LordKarV/flyscore): does a fruit-fly connectome simulation behave
   like a fly because of its wiring? 7 published behaviors, each tested against 10 scrambled-wiring
   controls.
