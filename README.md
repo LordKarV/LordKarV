@@ -1,11 +1,7 @@
 # Karthikeya Vattem
 
 CMU Information Systems + Computer Science, class of 2030. Co-founder of [Swail](https://swail.dev),
-building tools that check what AI agents actually did. Previously founding engineer intern at
-ValueMate (YC X25).
-
-I like results that survive a control: speaker-held-out evals, scrambled-wiring baselines, a
-defense tested against an attacker that retrains.
+building tools that check what AI agents actually did. 
 
 - [**kin**](https://github.com/LordKarV/kin): live-call companion that surfaces "who's that" cards
   from a per-listener knowledge graph with a forgetting model; picks cards in 2-3 ms vs a 4 s LLM
