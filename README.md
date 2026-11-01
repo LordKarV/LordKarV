@@ -1,6 +1,6 @@
 # Karthikeya Vattem
 
-CMU Information Systems + Computer Science, class of 2030. Co-founder of [Swail](https://swail.dev),
+CMU Information Systems + Computer Science. Co-founder of [Swail](https://swail.dev),
 building tools that check what AI agents actually did. 
 
 - [**kin**](https://github.com/LordKarV/kin): live-call companion that surfaces "who's that" cards
